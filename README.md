@@ -9,7 +9,7 @@ This line imports specific classes (Pin, SoftI2C, PWM) from the machine module. 
 to control various hardware components of the microcontroller.
 import ssd1306
 This line imports thessd1306 module, which provides functionality to interact with OLED displays.
-from time import sleep
+from time import sleep 
 This line imports the sleep function from the time module. The sleep function is used to introduce
 delays in the program execution.
 This line imports the dht module, which allows us to read temperature and humidity data from
