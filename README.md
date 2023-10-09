@@ -4,7 +4,7 @@ Weather (temp. and humidity) monitoring on OLED display with Realtime Email Repo
 THEORY
 
 
-from machine import Pin, SoftI2C, PWM
+from machine import Pin, SoftI2C, PWM 
 This line imports specific classes (Pin, SoftI2C, PWM) from the machine module. These classes allow us
 to control various hardware components of the microcontroller.
 import ssd1306
