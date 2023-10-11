@@ -13,10 +13,10 @@ buzzer=Pin(23,Pin.OUT)
 ssid = 'Wokwi-GUEST'
 password = ''
 # Email details
-sender_email = 'honeybohra28@gmail.com'
+sender_email = ''
 sender_name = 'ESP32' #sender name
 sender_app_password = 'pqkptmnmbtyotqbw'
-recipient_email ='mayanklander@gmail.com'
+recipient_email =''
 email_subject ='DHT22 Sensor Readings'
 def connect_wifi(ssid, password):
 #Connect to your network
